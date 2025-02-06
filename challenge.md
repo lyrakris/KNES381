@@ -1,8 +1,5 @@
-<!DOCTYPE html>
 <html>
-<body>
 
-<p style="text-align:center;">CENTERED TITLE</p>
+<h1 align="center">CENTERED TITLE</h1>
 
-</body>
 </html>
