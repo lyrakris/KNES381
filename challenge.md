@@ -9,3 +9,5 @@
 </body>
 
 </html>
+
+<code style="color : magenta">TESTE</code>
