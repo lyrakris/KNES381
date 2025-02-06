@@ -2,7 +2,7 @@
 <html>
 <body>
 
-<h1 style="text-align:center;">CENTERED TITLE</h1>
+<p style="text-align:center;">CENTERED TITLE</p>
 
 </body>
 </html>
