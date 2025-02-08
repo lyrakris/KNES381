@@ -14,6 +14,6 @@
 
 <code style="color : magenta">TESTE</code>
 
-<span style="color:blue">This is blue text</span>
+<span style="color:blue"> *This is blue text* </span>
 
 printf "\e[32mThis is green text\e[0m\n"
