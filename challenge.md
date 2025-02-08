@@ -1,19 +1,19 @@
+<!DOCUMENT html>
+
 <html>
 
 <body>
 
-<h1 align="center">CENTERED TITLE</h1>
+<h1 align="center">MARKDOWN ASSIGNMENT</h1>
+<p> V&#775;0sub<sub>2max</sub> is the maximum amount of oxygen your body can use during intense exercise. </p>
+<p> This is a hyperlink to a subfolder: </p>
 
-<p style="color:pink;">VO2 max is the measurement for one's optimal oxygen consumption during intense exercise!</p>
-
-<p>Some Markdown text <span style="color:red">some <em>red</em> text</span>.</p>
+<p align="right">
+<img src="https://img.freepik.com/free-vector/cute-girl-hacker-operating-laptop-cartoon-vector-icon-illustration-people-technology-isolated-flat_138676-9487.jpg" width="104" height="142">
+</p>
 
 </body>
 
 </html>
 
-<code style="color : magenta">TESTE</code>
 
-<span style="color:blue"> *This is blue text* </span>
-
-printf "\e[32mThis is green text\e[0m\n"
