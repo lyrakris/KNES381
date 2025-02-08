@@ -6,7 +6,7 @@
 
 <p style="color:pink;">VO2 max is the measurement for one's optimal oxygen consumption during intense exercise!</p>
 
-<code style="color : magenta">TESTE</code>
+<span style="color:red">This is red text</span>
 
 </body>
 
