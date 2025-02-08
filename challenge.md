@@ -13,3 +13,5 @@
 </html>
 
 <code style="color : magenta">TESTE</code>
+
+echo -e "/e[31mThis is red text\e[0m"
