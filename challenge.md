@@ -14,4 +14,6 @@
 
 <code style="color : magenta">TESTE</code>
 
-echo -e "/e[31mThis is red text\e[0m"
+<span style="color:blue">This is blue text</span>
+
+printf "\e[32mThis is green text\e[0m\n"
